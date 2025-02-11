@@ -1,1 +1,1 @@
-Solution to the CET141 week 1 workshop tasks
+Solution to the CET141 workshop
